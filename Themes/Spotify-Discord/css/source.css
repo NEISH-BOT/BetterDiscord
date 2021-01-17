@@ -1,7 +1,7 @@
 :root {
   --accent-color: #1db954;
   --accent-hover: #1ed760;
-  --accent-rgb: 29,185,84;
+  --accent-rgb: 111, 3, 252;
   --alt-accent: #5680d4;
   --alert-color: #f04747;
   --alert-hover: #ff4c4c;
@@ -16,7 +16,7 @@
   --card-color: rgba(255,255,255,0.05);
   --card-border: var(--bar-color);
   --card-radius: 8px;
-  --slider-color: #b3b3b3;
+  --slider-color: #1f1f1f;
   --slider-background: var(--menu-border-color);
   --popout-color: var(--bar-color);
   --popout-radius: 7px;
